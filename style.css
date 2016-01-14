@@ -1,0 +1,7 @@
+/* Furkan Kandemir | Kandemir.co */
+body{margin:0; padding:0; background: #fff}
+*{margin:0; padding:0; list-style-type:none; border: none}
+#dis-div{width:570px; padding:10px; margin:100px auto; background:#29a2d6; border:none;}
+.input{padding:7px; width:400px; margin-left:80px; background:#fff; border:1px solid #eee; font:12px Trebuchet ms;}
+#sonuclar{width:400px; padding:7px; margin-left:80px; margin-top:10px; background: #fff; border:1px solid #eee; font:12px Trebuchet ms;}
+#sonuclar li{border-bottom:1px solid #eee; padding:5px; margin-bottom:5px}
